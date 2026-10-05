@@ -1,0 +1,20 @@
+# Python virtual environment
+airdraw_env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local/generated files
+saved_notes/
+*.log
